@@ -1,3 +1,17 @@
+### Update — Intersection #3 Canonicalized
+Date: 2026-01-13
+
+Intersection #3 has been canonically identified as:
+East Galbraith Rd & Reading Rd (US-42).
+
+This resolves the previous placeholder entry and unblocks:
+- Lens 0 grounding
+- Lens 1 mechanism classification
+- Behavioral modifier evaluation (M1, M3)
+- Corridor aggregation across three nodes
+
+No analysis performed in this update.
+
 # Experiment 03 — Corridor Aggregation (Placeholder)
 
 Status: NOT RUN YET
