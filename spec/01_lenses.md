@@ -1,3 +1,5 @@
+> Updated through v0.2: supports corridor context and bounded behavioral modifiers (appendix-only).
+
 # Lenses (v0.1)
 
 This document defines the staged reasoning lenses used to analyze a problem
